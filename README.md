@@ -1,6 +1,6 @@
 # dog_blog
 
-![Мы](https://drive.google.com/file/d/1M8y_ogpkyirN5h2IOAWdkMDdm5FFHhWU)
+!(https://drive.google.com/file/d/1M8y_ogpkyirN5h2IOAWdkMDdm5FFHhWU)
 
 ## Я  хочу помочь будущим владельцам не навредить своим питомцам ##
 
